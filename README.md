@@ -12,7 +12,7 @@ python setup.py bdist_wheel
 python -m pip install dist/qii_tool-0.1.2-py3-none-any.whl
 ```
 
-Following examples can be found in the [experiments](https://github.com/hovinh/QII/experiments):
+Following examples can be found in the [experiments](https://github.com/hovinh/QII/tree/master/experiments):
 - iris dataset
 
 ![iris plot](img/iris_plot.png "Iris plot")
