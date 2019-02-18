@@ -28,5 +28,5 @@ The package is implemented in such a way that it is easy to extend to user's nee
 - set `pool` to a specific distribution, e.g. all data points has feature `sepal length` > 4.6 cm, in `QII.compute()`
 
 ## Credit:
-- The code is adapted from Shayak's version.
-- Contact hovinh39@gmail.com  
+- The code is adapted from Shayak Sen's version.
+- For further request of case study or issues using the package, please contact Vinh (hovinh39@gmail.com).  
